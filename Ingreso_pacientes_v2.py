@@ -1,6 +1,6 @@
 from os import system
 
-mas_de_sesenta ={} # diccionario_vacio
+mas_de_sesenta ={} # diccionario o un set vacio
 total_pacientes = 0 
 total_tatitas = 0
 
